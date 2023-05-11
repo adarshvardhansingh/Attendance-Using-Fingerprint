@@ -8,4 +8,4 @@ The test1, test2 files are main recognition file and other code files can be use
 Sample images are named as 1,2,3 with a result image.
 An image for testing for all codes is there named as testimage.
 Matching can be done using a Direct matching Algorithm.
-An sample paper is also provided for matching algorithm.
+An sample paper(Journal for matching features) is also provided for matching algorithm.
