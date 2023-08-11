@@ -1,4 +1,4 @@
-# Student Attendence System using Fingerprint Recognition 
+# Student Attendance System using Fingerprint Recognition 
 Student attendance system using fingerprint recognition is to 
 provide an accurate and efficient way of tracking the attendance of students in 
 educational institutions. The system aims to replace traditional attendance 
